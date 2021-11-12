@@ -3,7 +3,7 @@ title: Kendall Rogers
 description: Student at Villanova University studying Business Management and Marketing with a minor in Business Law
 url: 'https://github.com/velthuis/uno-timeline-villanova/raw/main/_data/CV.pdf' # this is the link behind the CV button
 /baseurl: '' # leave empty unless you use a domain name other than GitHub
-profilepic: '/images/profile.png'
+profilepic: 'IMG-0990.JPG'
 bkimage: '/images/beech.jpg' # Licensed from https://www.flickr.com/people/vudigitallibrary/
 google_analytics: G-XXXXXXXXXX # requires a free account 
 font_awesome: 'XXXXXXXXXX.js' # set up a free account at fontawesome.com to get your kit ID
