@@ -1,6 +1,6 @@
 # Site settings
-title: Will D. Cat
-description: Student at Villanova University. Please check out my work!
+title: Kendall Rogers
+description: Student at Villanova University studying Business Management and Marketing with a minor in Business Law
 url: 'https://github.com/velthuis/uno-timeline-villanova/raw/main/_data/CV.pdf' # this is the link behind the CV button
 /baseurl: '' # leave empty unless you use a domain name other than GitHub
 profilepic: '/images/profile.png'
@@ -9,11 +9,11 @@ google_analytics: G-XXXXXXXXXX # requires a free account
 font_awesome: 'XXXXXXXXXX.js' # set up a free account at fontawesome.com to get your kit ID
 
 author:
-  name: 'Will D. Cat'
-  email: will.d.cat@villanova.edu
-  twitter_username: WillDCatVU
+  name: 'Kendall Rogers'
+  email: kroger22@villanova.edu
+  instagram_username: kendall._.rogers
   github_username: VillanovaUniversity
-  # linkedin_username: 
+  linkedin_username: https://www.linkedin.com/in/kendall-rogers12
   # ssrn_id: 
   # scopus_id:
   # orcid_id: 
